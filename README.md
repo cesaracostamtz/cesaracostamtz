@@ -7,7 +7,7 @@ Soy Egresado de la U-ERRE, 7 años de experiencia en Control de calidad de softw
 - ⭐ Working in my new startup 
 - 📗 I'm currently learning on Javascript.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/cesar-acosta95/).
-- 😄 I'm currently watching Mad Men series: ...
+- 😄 I'm currently watching Mad Men series.
 
 <!--
 **RaulRueda/RaulRueda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
