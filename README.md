@@ -4,10 +4,10 @@
 Soy Egresado de la U-ERRE, 7 años de experiencia en Control de calidad de software, desarrollo web, innovación y ventas.
 
 - 🏪 Senior QA Engineer, [ArkusNexus](https://apps.apple.com/mx/app/mi-oxxo-m%C3%A9xico/id1473147659).
-- ⭐ Trabajando en mi nueva startup
+- ⭐ Co-fundador en [Lazzo](https://lazzo.io).
 - 📗 Estoy actualmente estudiando Javascript.
 - 📫 Como contactarme: [Linkedin](https://www.linkedin.com/in/cesar-acosta95/).
-- 😄 Estoy actualmente viendo la serie Mad Men.
+- 😄 Mi Podcast [Traffick Masters](https://youtu.be/UFhrNRyfdcc).
 
 <!--
 **RaulRueda/RaulRueda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
