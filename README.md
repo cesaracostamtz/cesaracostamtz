@@ -3,9 +3,8 @@
 - Soy un emprendedor de Monterrey, Nuevo León. Tengo 25 años, Me considero un ambioso y amante de la tecnología y el marketing. Me dedico a ayudar a pequeñas y medianas empresas a alcanzar su transformación digital.
 Soy Egresado de la U-ERRE, 7 años de experiencia en Control de calidad de software, desarrollo web, innovación y ventas.
 
-- 🏪 Senior QA Engineer, [ArkusNexus](https://apps.apple.com/mx/app/mi-oxxo-m%C3%A9xico/id1473147659).
 - ⭐ Co-fundador en [Lazzo](https://lazzo.io).
-- 📗 Estoy actualmente estudiando Javascript.
+- 📗 Estoy actualmente estudiando Javascript y UI/UX.
 - 📫 Como contactarme: [Linkedin](https://www.linkedin.com/in/cesar-acosta95/).
 - 😄 Mi Podcast [Traffick Masters](https://youtu.be/UFhrNRyfdcc).
 
